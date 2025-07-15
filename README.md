@@ -1,5 +1,7 @@
 # 📱 Mini-Brief React Native : *"Ma météo de poche"*
 
+![Brief_Meteo](./meteo.png)
+
 ## 🎯 Objectif :
 
 Créer une application mobile React Native qui affiche la météo des **7 prochains jours** en se basant sur la localisation de l'utilisateur.
