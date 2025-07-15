@@ -1,6 +1,6 @@
 # 📱 Mini-Brief React Native : *"Ma météo de poche"*
 
-![Brief_Meteo](./meteo.png)
+![Brief_Meteo](./assets/meteo.png)
 
 ## 🎯 Objectif :
 
